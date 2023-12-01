@@ -1,0 +1,7 @@
+class MyColors:
+    BACKGROUND_COLOR = "#132043"
+    CELL_COLOR = "#FDF0F0"
+    TEXT_COLOR_1 = "black"
+    CONTAINER_COLOR_1 = "#1F4172"
+    INNER_CONTAINER_COLOR = "#F1B4BB"
+
