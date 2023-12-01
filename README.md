@@ -3,6 +3,7 @@
 
 Full stack software developed in Python using Flet for GUI and Mongo DB for storing data.
 
+
 ## Browse
 
 Browse through your collected marketing data by table with the ability to filter and sort based on the 15 collected fields.
