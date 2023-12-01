@@ -1,7 +1,7 @@
 
 # Tiktok Marketing and Data Management Software
 
-Full stack software developed in Python using Flet for GUI and Mongo DB for storing data.
+Full stack software developed in Python using Flet for GUI and Mongo DB NoSQL database.
 
 
 ## Browse
